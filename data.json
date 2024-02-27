@@ -4,7 +4,7 @@
     "bwf_first": true,
     "has_bwf_progressions": true,
     "has_recommended_routine": true,
-    "monthly_price_eur": true,
+    "monthly_price_eur": 0,
     "annual_price_eur": 0,
     "lifetime_price_eur": 0,
     "has_free_version": false,
